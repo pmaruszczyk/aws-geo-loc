@@ -1,0 +1,15 @@
+{
+  "userName": "john",
+  "locations": [],
+  "areas": [
+    {
+      "latitude": "50.2783333",
+      "longitude": "18.6830891",
+      "notification": {
+        "message": "John has left Future Processing",
+        "phone": "+48000000000"
+      },
+      "radius": 1
+    }
+  ]
+}
